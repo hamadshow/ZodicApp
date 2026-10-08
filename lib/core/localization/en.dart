@@ -1,0 +1,35 @@
+class AppEn {
+  AppEn._();
+
+  static const Map<String, String> strings = {
+    'appName': 'ZodicERP',
+    'welcomeBack': 'Welcome Back',
+    'welcomeSubtitle': 'Sign in to continue to your account',
+    'emailOrUsername': 'Email / Username',
+    'password': 'Password',
+    'rememberMe': 'Remember me',
+    'forgotPassword': 'Forgot Password?',
+    'signIn': 'Sign In',
+    'sendResetLink': 'Send Reset Link',
+    'resetPassword': 'Reset Password',
+    'resetPasswordTitle': 'Reset Password',
+    'forgotPasswordTitle': 'Forgot Password?',
+    'forgotPasswordDescription': 'Enter your email address and we will send you instructions to reset your password.',
+    'passwordResetSent': 'Reset link sent',
+    'checkYourEmail': 'Check your email for instructions to reset your password.',
+    'backToLogin': 'Back to Login',
+    'newPassword': 'New Password',
+    'confirmPassword': 'Confirm Password',
+    'passwordResetSuccess': 'Password Reset Successfully',
+    'dashboard': 'Dashboard',
+    'dashboardWelcome': 'Welcome to your dashboard',
+    'invalidCredentials': 'Unable to sign in. Please check your email and password.',
+    'requiredField': 'This field is required.',
+    'invalidEmail': 'Please enter a valid email address.',
+    'weakPassword': 'Password must be at least 6 characters long.',
+    'passwordMismatch': 'Passwords do not match.',
+    'emailHint': 'you@example.com',
+    'usernameHint': 'admin or email',
+    'passwordHint': 'Enter your password',
+  };
+}

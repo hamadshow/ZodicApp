@@ -1,0 +1,35 @@
+class AppAr {
+  AppAr._();
+
+  static const Map<String, String> strings = {
+    'appName': 'زدك إيرب',
+    'welcomeBack': 'مرحباً بعودتك',
+    'welcomeSubtitle': 'سجل الدخول للاستمرار في حسابك',
+    'emailOrUsername': 'البريد الإلكتروني / اسم المستخدم',
+    'password': 'كلمة المرور',
+    'rememberMe': 'تذكرني',
+    'forgotPassword': 'هل نسيت كلمة المرور؟',
+    'signIn': 'تسجيل الدخول',
+    'sendResetLink': 'إرسال رابط الإعادة',
+    'resetPassword': 'إعادة تعيين كلمة المرور',
+    'resetPasswordTitle': 'إعادة تعيين كلمة المرور',
+    'forgotPasswordTitle': 'هل نسيت كلمة المرور؟',
+    'forgotPasswordDescription': 'أدخل بريدك الإلكتروني وسنرسل لك تعليمات إعادة تعيين كلمة المرور.',
+    'passwordResetSent': 'تم إرسال الرابط',
+    'checkYourEmail': 'تحقق من بريدك الإلكتروني للحصول على تعليمات إعادة تعيين كلمة المرور.',
+    'backToLogin': 'العودة إلى تسجيل الدخول',
+    'newPassword': 'كلمة المرور الجديدة',
+    'confirmPassword': 'تأكيد كلمة المرور',
+    'passwordResetSuccess': 'تمت إعادة تعيين كلمة المرور بنجاح',
+    'dashboard': 'لوحة التحكم',
+    'dashboardWelcome': 'مرحباً بك في لوحة التحكم',
+    'invalidCredentials': 'تعذر تسجيل الدخول. يرجى التحقق من البريد الإلكتروني وكلمة المرور.',
+    'requiredField': 'هذا الحقل مطلوب.',
+    'invalidEmail': 'يرجى إدخال عنوان بريد إلكتروني صالح.',
+    'weakPassword': 'يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.',
+    'passwordMismatch': 'كلمات المرور غير متطابقة.',
+    'emailHint': 'you@example.com',
+    'usernameHint': 'admin أو البريد الإلكتروني',
+    'passwordHint': 'أدخل كلمة المرور',
+  };
+}
